@@ -10,6 +10,8 @@ body {
 	width: 995px;
 	text-align: center;
 	margin: 0 auto;
+	padding-bottom: 10px;
+	height: 772px;
 }
 header {
 	display: inline;
@@ -129,7 +131,7 @@ header {
 }
 .main-2 .heading h1 {
 	color: #666666;
-	font-size: 26px;
+	font-size: 20px;
 }
 .main-2 .heading p {
 	font-size: 12px;
